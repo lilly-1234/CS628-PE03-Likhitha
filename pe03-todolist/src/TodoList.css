@@ -1,0 +1,23 @@
+/* Centers the title */
+.title {
+    text-align: center;
+}
+
+/* Styling for the input text */
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Styling for the "Add Task" button */
+.add-task {
+    background-color: #3c55f7;
+    color: white;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 3px;
+}

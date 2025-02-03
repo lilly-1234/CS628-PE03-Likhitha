@@ -1,0 +1,26 @@
+/* Adds a margin space at the top of the task list */
+.task-list {
+    margin-top: 20px;
+}
+
+/* Styling for tasks in the list */
+.task {
+    display: flex;
+    justify-content: space-between;  /* Align content with space between elements */
+    align-items: center;  /* Centers the items vertically */
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    background-color: #F9FAF9;
+    border-radius: 5px;
+}
+
+/* Styling for the delete button */
+.delete-button {
+    background-color: #e93225;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    
+}
